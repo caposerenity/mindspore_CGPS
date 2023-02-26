@@ -1,7 +1,7 @@
 
 ## CGPS描述
 
-CGPS[论文地址参见](https://arxiv.org/pdf/2106.10506.pdf)是AAAI2022的中稿工作，论文全名为Exploring Visual Context for Weakly Supervised Person Search。该方法基于Faster-RCNN，是首篇弱监督设定下的行人搜索工作。
+CGPS[论文地址参见](https://arxiv.org/pdf/2106.10506.pdf)是AAAI2022的中稿工作，论文全名为Exploring Visual Context for Weakly Supervised Person Search。该方法基于Faster-RCNN，是首篇弱监督设定下的行人搜索工作。该项目的Pytorch实现版本可以[参考](https://github.com/ljpadam/CGPS)
 
 如下为MindSpore使用CUHK-SYSU数据集对DAPS进行训练的示例。
 
